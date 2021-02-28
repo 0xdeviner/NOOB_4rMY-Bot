@@ -1,0 +1,8 @@
+discord
+asyncio
+os
+platform
+sys
+random
+aiohttp
+json
