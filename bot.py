@@ -62,7 +62,7 @@ async def ping(context):
 async def on_member_join(member):
     # print("Member" + member.name + "joined the server")
     
-    welcomechannel = bot.get_channel(815279324298739713)
+    welcomechannel = bot.get_channel(696601792288653374)
     
     embed=discord.Embed(
         title="A Deadly Hacker Arrived!",
@@ -77,7 +77,7 @@ async def on_member_join(member):
 @bot.event
 async def on_member_remove(member):
 
-    log_channel = bot.get_channel(815279352051925012)
+    log_channel = bot.get_channel(697659304026832973)
     embed=discord.Embed(
         title="A Deadly Hacker Left!",
         description= f"Goodbye {member.name}!",
