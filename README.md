@@ -18,3 +18,6 @@
 - Integrate Warning with Rule Violation.
 - Add GTFObins, exploit-db, CVE-Update
 - More.......If i get any ideas ;)
+
+
+## Note: This project is no more supported!
